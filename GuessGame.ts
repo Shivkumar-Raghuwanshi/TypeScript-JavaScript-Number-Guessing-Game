@@ -1,5 +1,5 @@
 
-function guessNumber() {
+function guessNumber():void {
   // Taking inputs
   
   const prompt= require("prompt-sync")({sigint:true}); 
